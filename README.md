@@ -8,10 +8,11 @@ I am a **Software Development & Machine Learning enthusiast**, currently focused
 - Research reports on **trustworthy AI, model reproducibility, and ML systems**
 
 ## 🛠️ Tools & Technologies
-- **Languages:** Python  
+- **Languages:** Python, TypeScript, JavaScript
+- **SW Frameworks:** React, Next.JS, Nest, Tailwind  
 - **ML Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers  
-- **Data & Vector DBs:** Pandas, NumPy, FAISS, Chroma  
-- **Deployment & DevOps:** FastAPI, Docker, GitHub Actions, basic cloud deployment  
+<!--- **Data & Vector DBs:** Pandas, NumPy, FAISS, Chroma  
+- **Deployment & DevOps:** FastAPI, Docker, GitHub Actions, basic cloud deployment-->  
 - **Other:** Jupyter Notebook, VS Code  
 
 ## 📫 How to reach me
