@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Arika
 
-I am a **Data Analysis & Machine Learning enthusiast**, currently focused on building **ML engineering projects and research reports** for my portfolio.  
+I am a **Software Development & Machine Learning enthusiast**, currently focused on building **ML engineering projects and research reports** for my portfolio.  
 
 ## 🔭 Currently working on
 - Developing a **RAG-powered document intelligence project (LocalDocs)**  
