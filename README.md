@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Arika
 
-I am a **Software Development & Machine Learning enthusiast**, currently focused on building **ML engineering projects and research reports** for my portfolio.  
+I am a **Software Development & Machine Learning enthusiast**, currently focused on building **SWE projects and research reports** for my portfolio.  
 
-## 🔭 Currently working on
+<!--## 🔭 Currently working on
 - Developing a **RAG-powered document intelligence project (LocalDocs)**  
 - Small ML projects to strengthen my understanding of **transformers, embeddings, and model deployment**  
 - Research reports on **trustworthy AI, model reproducibility, and ML systems**
@@ -13,7 +13,7 @@ I am a **Software Development & Machine Learning enthusiast**, currently focused
 - **ML Frameworks:** PyTorch, TensorFlow, Hugging Face Transformers  
 <!--- **Data & Vector DBs:** Pandas, NumPy, FAISS, Chroma  
 - **Deployment & DevOps:** FastAPI, Docker, GitHub Actions, basic cloud deployment-->  
-- **Other:** Jupyter Notebook, VS Code  
+<!-- - **Other:** Jupyter Notebook, VS Code-->
 
 ## 📫 How to reach me
 - Email: ariunbolor.tse@gmail.com  
@@ -21,7 +21,7 @@ I am a **Software Development & Machine Learning enthusiast**, currently focused
 
 ---
 
-*Currently building my portfolio with small & flagship ML projects, documenting learning and research along the way.*
+*Currently building my portfolio with small & flagship projects, documenting learning and research along the way.*
 
 
 <!--
